@@ -1,0 +1,24 @@
+body {
+    background: #f6f8fb;
+}
+
+.card {
+    overflow: hidden;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.badge {
+    font-weight: 500;
+}
+
+.min-vh-100 {
+    min-height: calc(100vh - 2rem);
+}
