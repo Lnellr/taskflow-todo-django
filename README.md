@@ -111,3 +111,5 @@ TaskCategory 1 ─── N Task
 ## Demo
 
 https://taskflow-nev3.onrender.com
+
+GIF находится в папке demo (название файла - demonstration.gif)
